@@ -30,7 +30,7 @@ header{
 header div{
     width: 120px;
     margin: auto;
-    background-image: solid red;
+    background-image:red;
     border-radius: 50%;
     padding: 4px;
     transition:transform .3s ;
@@ -57,7 +57,7 @@ main {
 
 section {
     color: white;
-    background-image: linear-gradient(90deg, #9572FC 0%, #c9e743 50.52%, #5c60e2 100%);
+    background-image: green;
     padding-top: 4px;
     border-radius: 10px;
 }
